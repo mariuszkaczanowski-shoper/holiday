@@ -36,6 +36,7 @@ final class Translator implements TranslatorInterface
         $this->addTranslations('en', include __DIR__ . '/../../res/trans/umulmrum_holiday.en.php');
         $this->addTranslations('de', include __DIR__ . '/../../res/trans/umulmrum_holiday.de.php');
         $this->addTranslations('no', include __DIR__ . '/../../res/trans/umulmrum_holiday.no.php');
+        $this->addTranslations('pl', include __DIR__ . '/../../res/trans/umulmrum_holiday.pl.php');
     }
 
     /**
